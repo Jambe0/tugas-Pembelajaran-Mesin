@@ -1,6 +1,8 @@
 # 📌 tugas prak. Pembelajaran Mesin
-
----
+<p align="center">
+  <b>Muhammad Jalallullail</b><br>
+  NIM: 1237050025
+</p>
 
 ## 🖼️ Preview Hasil
 
@@ -37,6 +39,3 @@
 ## 📝 Catatan
 
 Dibuat untuk memenuhi tugas kuliah.
-## Muhammad Jalallullail 
-## 1237050025
-
